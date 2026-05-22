@@ -1,0 +1,8 @@
+interface:
+  display_name: "Career Planning"
+  short_description: "Guide a 9-stage career planning conversation."
+  default_prompt: "Use $career-planning to help me clarify my next career direction."
+  brand_color: "#4A8886"
+
+policy:
+  allow_implicit_invocation: true
